@@ -1,3 +1,5 @@
 # goit-node-js-hw
-https://monosnap.com/list/64c11c75d401751e72f81546
-https://monosnap.com/file/BtQ3bXbIAk4e0hze9hf67iV43dxVXW
+https://monosnap.com/file/kNACyzYwRQyCk5vSu7Dq5YRvf93bxK
+https://monosnap.com/file/r3jlW8AP3A1Hn4bKep4PAEA2MbM7sQ
+https://monosnap.com/file/5Fv0yzEoqM257yLECRf5D0q75twZtz
+https://monosnap.com/file/k1TC9wLjaSibVVUz66bMeaJYdfJD9k
